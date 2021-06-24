@@ -4,12 +4,12 @@ Created with [oomox](https://github.com/themix-project/oomox) and based on the [
 
 ![](./static/screenshot.png)
 
-
 # Requirements
 
-You must have `git` installed to clone the repository, and I recommend installing [lxappearance](https://wiki.lxde.org/en/LXAppearance) when setting and customizing GTK themes.
+You must have `git` installed to clone the repository, and I recommend installing [lxappearance](https://wiki.lxde.org/en/LXAppearance) for setting and customizing GTK themes.
 
 # Install
 
 1. Clone this repository in your `~/.themes` directory
-2. Open `lxappearance` app and set the theme to `tokyonight-gtk`
+2. Copy over `./icons` to `~/.icons` directory
+3. Open `lxappearance` and set the theme and icons accordingly
